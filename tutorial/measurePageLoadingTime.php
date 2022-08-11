@@ -27,3 +27,4 @@ $timeTaken = $endTime - $startTime;
 $timeTaken = round($timeTaken, 5);
 
 echo $timeTaken . "<br>";
+
