@@ -32,3 +32,4 @@ if(filter_var($goodInput, FILTER_VALIDATE_EMAIL) !== FALSE) {
 } else {
   echo 'Bad';
 }
+
