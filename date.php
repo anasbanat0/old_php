@@ -4,6 +4,7 @@ date_default_timezone_set('Asia/Gaza'); // Set To Gaza Timezone
   date(Format, timestamp)
   strtotime(date, timestamp)
 */
+
 $nextMonth = time() + (30 * 24 * 60 * 60);
 $nextWeek = time() + (7 * 24 * 60 * 60);
 
