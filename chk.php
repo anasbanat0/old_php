@@ -15,7 +15,6 @@ $input = $_POST['test'];
 //   'flags' => FILTER_FLAG_ALLOW_HEX
 // );
 
-
 // if(filter_var($input, FILTER_VALIDATE_INT, $opt) !== FALSE) {
 //   echo 'Good The ' . $input . ' You Entered Is Integer & Its from 1 to 999';
 // } else {
