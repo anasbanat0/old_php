@@ -7,6 +7,7 @@ $input = $_POST['test'];
 //   echo 'Sorry The '.$input . ' You Entered Is Not URL';
 // }
 
+
 // $opt = array(
 //   'options' => array(
 //     'min_range' => 1,
