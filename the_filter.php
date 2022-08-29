@@ -19,3 +19,4 @@ foreach(filter_list() as $filter) {
   <input type="text" name="test">
   <input type="submit" value="Send">
 </form>
+
