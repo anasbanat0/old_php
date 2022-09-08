@@ -7,7 +7,6 @@
   Database Query Result
 */
 
-
 /*
   filter_var(variable, filter_type, options)
 */
